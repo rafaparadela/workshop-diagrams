@@ -39,9 +39,9 @@
 
 -------------
 
-[TITLE (Google Drawing)](URL_DRAW)
+[CREATING GAME SEQUENCE (Google Drawing)](https://docs.google.com/drawings/d/1DJk1tiVmtQHtmPHZ0UiEcCRsXOcfWVsmyYCll77ESKk/edit?usp=sharing)
 
-![notitle](PNG)
+![notitle](https://docs.google.com/drawings/d/e/2PACX-1vRuQi0CA5NcnpCzPSVPWm5bf9-unu6BnsyFeu6btAQZ6bf93nfxppVastFvTGWUX059MuzEi0jsw7zp/pub?w=1322&h=699)
 
 -------------
 
