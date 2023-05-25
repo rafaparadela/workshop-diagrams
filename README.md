@@ -34,7 +34,7 @@
 
 [LOGIN SEQUENCE (Google Drawing)](https://docs.google.com/drawings/d/1aoAJLF4_dfjZFC_oR3xzWdpNkwOhBgsufzUsHpYpCfo/edit?usp=sharing)
 
-![notitle](https://docs.google.com/drawings/d/e/2PACX-1vRK-F2xB9UEtA4wzSmxNn3y6KT8FptNWgR9T4Nd8nF6apW0uAOYnCg3TdnsNE4dSSKWt6-ZvqV6I6FF/pub?w=776&h=348)
+![notitle](https://docs.google.com/drawings/d/e/2PACX-1vRK-F2xB9UEtA4wzSmxNn3y6KT8FptNWgR9T4Nd8nF6apW0uAOYnCg3TdnsNE4dSSKWt6-ZvqV6I6FF/pub?w=1164&h=522)
 
 
 -------------
