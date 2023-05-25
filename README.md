@@ -1,8 +1,13 @@
 # workshop-diagrams
 
 -------------
-[Docker Services (Google Drawing)](https://docs.google.com/drawings/d/1YpC5y-eI8UL0CwMsHXG0xN2wOEdBpQvwLclEZvwiWsE/edit?usp=sharing)
+[Docker Services (Google Drawing)](https://docs.google.com/drawings/d/1sygEB5nrGsHMk3kV6muiePlGKcU9ICv-uk_C7sUZJmU/edit?usp=sharing)
 ![Docker Services](https://docs.google.com/drawings/d/e/2PACX-1vRvhKK2PL51-yTI_cJyhhlqMTmfW3Gfm8oRHTpSPjpBrCt9bnjtfSk_qIwyFsGW2bClc4WQzPEh49UC/pub?w=857&h=500)
+
+
+-------------
+[SBT Structure (Google Drawing)](https://docs.google.com/drawings/d/1YpC5y-eI8UL0CwMsHXG0xN2wOEdBpQvwLclEZvwiWsE/edit?usp=sharing)
+![Docker Services](https://docs.google.com/drawings/d/e/2PACX-1vThXK0xbvfjNxp0enDGjbboUOexRm33sE3w0O9aT0FkbuN_MRE1U_FqlKp8DpyGsovEy6hsvLyh5bf8/pub?w=587&h=277)
 
 -------------
 [Communication Schema (Google Drawing)](https://docs.google.com/drawings/d/1zZUzEodQn2lkX8uTqSl5I0EbUM9i7SP4S7ruP-_qbXY/edit?usp=share_link)
