@@ -45,24 +45,15 @@
 
 -------------
 
-[TITLE (Google Drawing)](URL_DRAW)
+[TURN SEQUENCE (Google Drawing)](https://docs.google.com/drawings/d/17K6BjZkp76TuuHquLEgHdEyrr8j-N-IzeIlWjnLs07w/edit?usp=sharing)
 
-![notitle](PNG)
-
--------------
-
-[TITLE (Google Drawing)](URL_DRAW)
-
-![notitle](PNG)
+![notitle](https://docs.google.com/drawings/d/e/2PACX-1vSGPwPRbOttUx_Cxv4ne0j2dCrM5iZTAOEw_5TBczOB90cj9_TD6040Pu8TY0RPsBIz04SY1Px1GkhD/pub?w=1081&h=518)
 
 -------------
 
-[TITLE (Google Drawing)](URL_DRAW)
+[TYRIAN ARCHITECTURE (Google Drawing)](https://docs.google.com/drawings/d/1qNdomX73gGvJtVL0kEc54ymuckhpxJC_A3SmVq6_XNk/edit?usp=sharing)
 
-![notitle](PNG)
+![notitle](https://docs.google.com/drawings/d/e/2PACX-1vRL84xRUb4JXzMDwp3k3irqX7S-466PXAWARcJ0Qrvx-RrSRYXVVpuXZP03H6pss0sm-ZidZbGDdhvD/pub?w=1157&h=793)
 
 -------------
 
-[TITLE (Google Drawing)](URL_DRAW)
-
-![notitle](PNG)
