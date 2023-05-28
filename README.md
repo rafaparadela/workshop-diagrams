@@ -57,3 +57,10 @@
 
 -------------
 
+
+[LOGIN SEQUENCE - CLIENT DETAIL (Google Drawing)](https://docs.google.com/drawings/d/1-leGllmdrl5PGO6CwuA2jI6YurVoBeq5AoP7HmYAr24/edit?usp=sharing)
+
+![notitle](https://docs.google.com/drawings/d/e/2PACX-1vQNxjgvgEZdX_2y8solmCMRVjC2W1yjPz4ftN5p-ctQ8fv2RqJZhL3rDxvQq4D7eR86Fimv_yxiAmeV/pub?w=475&h=247)
+
+-------------
+
