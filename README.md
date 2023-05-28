@@ -72,3 +72,10 @@
 -------------
 
 
+[TURN SEQUENCE - CLIENT DETAIL (Google Drawing)](https://docs.google.com/drawings/d/1OtRmAGgQObf6LUYhYiOeXyuoTSn1a6eEVkqaI2HE4nc/edit?usp=sharing)
+
+![notitle](https://docs.google.com/drawings/d/e/2PACX-1vQ9OT1xMzlRIBU2fDztFtZmvOivaUKExNZjqpBxesbF_KwRKw_nE8BQW9fyYW4OTxTCV5-eGIJzqUzl/pub?w=738&h=486)
+
+-------------
+
+
